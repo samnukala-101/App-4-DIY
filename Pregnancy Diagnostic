@@ -112,6 +112,8 @@
 		<h1>Question 4</h1>
 	</div>
 	
+	<img src=”(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpgYPvmNZ4zYpd51Ag9MtFPWXQFKQ708aVg&usqp=CAU)”>
+	
 	<div id="content" class="w3-container">
 		<p>Is you waist size expanding?</p>
 		<a href="#five" onclick="pregnancyAdd();"class="w3-btn w3-black"> Yes </a>
